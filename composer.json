@@ -1,5 +1,5 @@
 {
-    "name": "lyranetwork/payment-form-api",
+    "name": "jrodella/payment-form-api",
     "description": "Common API to make Lyra payment platform integration easier in PHP based websites.",
     "version": "3.0.0",
     "type": "library",
